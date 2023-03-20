@@ -9,14 +9,14 @@
 
 .avatar {
   border-radius: 50%;
-  width: 250px;
-  margin-bottom: 20px;
+  width: 150px;
+  margin-bottom: 10px;
   border: 1px solid rgb(206, 197, 197);
 }
 
 .name {
   margin: 0;
-  font-size: 38px;
+  font-size: 28px;
   font-weight: 500;
   margin-bottom: 20px;
 }
@@ -24,7 +24,7 @@
 .tag {
   margin: 0;
   margin-bottom: 10px;
-  font-size: 26px;
+  font-size: 16px;
   font-weight: 500;
   color: rgb(101, 103, 104);
 }
@@ -32,7 +32,7 @@
 .location {
   margin: 0;
   margin-bottom: 20px;
-  font-size: 26px;
+  font-size: 16px;
   font-weight: 500;
   color: rgb(101, 103, 104);
 }
@@ -50,8 +50,8 @@
   justify-content: center;
   align-items: center;
   gap: 10px;
-  width: 164px;
-  height: 164px;
+  width: 124px;
+  height: 124px;
   background-color: rgb(212, 226, 243);
   border: 1px solid rgb(206, 197, 197);
 }
@@ -63,6 +63,6 @@
 }
 
 .quantity {
-  font-size: 26px;
+  font-size: 16px;
   font-weight: 500;
 }

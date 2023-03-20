@@ -1,7 +1,7 @@
 .statistics {
   width: 500px;
   text-align: center;
-  font-size: 16px;
+  font-size: 12px;
   background-color: rgb(233, 233, 233);
   border: 1px solid rgb(175, 175, 175);
   border-radius: 5px;
@@ -9,7 +9,7 @@
 
 .title {
   padding: 10px;
-  font-size: 28px;
+  font-size: 18px;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color: rgb(66, 66, 66);
@@ -28,15 +28,15 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 100px;
-  height: 100px;
-  gap: 20px;
+  width: 70px;
+  height: 70px;
+  gap: 10px;
   color: rgb(252, 252, 252);
 }
 
 .label {
-  font-size: 16px;
+  font-size: 14px;
 }
 .percentage {
-  font-size: 26px;
+  font-size: 20px;
 }

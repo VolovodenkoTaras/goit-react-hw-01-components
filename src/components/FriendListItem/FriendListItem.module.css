@@ -2,8 +2,8 @@
   display: flex;
   align-items: center;
   margin-bottom: 10px;
-  padding: 20px;
-  gap: 20px;
+  padding: 10px;
+  gap: 10px;
   background-color: rgb(255, 254, 254);
   border: 1px solid rgb(206, 197, 197);
   border-radius: 5px;
@@ -36,6 +36,6 @@
 
 .name {
   margin: 0;
-  font-size: 30px;
+  font-size: 20px;
   font-weight: 500;
 }
